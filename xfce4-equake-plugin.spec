@@ -1,7 +1,7 @@
 Summary:	Earthquake monitor plugin for the Xfce panel
 Name:		xfce4-equake-plugin
 Version:	1.3.8.1
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://archive.xfce.org/src/panel-plugins/xfce4-equake-plugin/1.3/%{name}-%{version}.tar.bz2
